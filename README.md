@@ -1,4 +1,4 @@
-# MPC2000xl
+# MPC2000
 
 ## Descriptions
 * 8 Pads
