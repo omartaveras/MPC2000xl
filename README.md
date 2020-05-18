@@ -9,4 +9,6 @@
 
 ## MpcONE - 2020
 - DrumKitz
+- Vinyls
+- Chopping
 
