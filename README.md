@@ -14,4 +14,7 @@
 - Chopping
 
 ## MpcStudio
+1.9
 
+## MpcEssential
+1.8
