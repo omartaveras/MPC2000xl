@@ -8,12 +8,15 @@
 ## Virtual Drum Machine Links:
 * http://www.vintagesynth.com/
 * http://www.mpchunter.com/
+* https://www.inphonik.com/products/rx950-classic-ad-da-converter/
 * https://www.samplerbox.org/
+* https://www.musicradar.com/news/the-4-samplers-that-changed-musical-history-and-how-they-did-it
 
 ## MpcONE - 2020
 - DrumKitz
 - Vinyls
 - Chopping
+- Lo-Fi filter 10k
 
 ## MpcStudio
 1.9
