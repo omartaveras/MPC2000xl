@@ -24,3 +24,6 @@
 
 ## MpcEssential
 1.8
+
+## MpcBeats
+2.8.1
