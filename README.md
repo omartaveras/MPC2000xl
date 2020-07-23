@@ -1,6 +1,7 @@
 # MPC2000V
 # MPC One
 # SamplerBox
+# Sp950
 
 ## Descriptions
 * 8 Pads
