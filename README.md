@@ -30,3 +30,6 @@
 ## MpcBeats
 2.8.1
 Reaper.. .
+
+## PlugIns
+- http://signaltonoize.com/?p=550 - Rev impulses
