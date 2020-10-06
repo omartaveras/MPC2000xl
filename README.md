@@ -2,6 +2,7 @@
 # MPC One
 # SamplerBox
 # Sp950
+# Mo Phatt click
 
 ## Descriptions
 * 8 Pads
