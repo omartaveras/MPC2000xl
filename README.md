@@ -1,7 +1,7 @@
 # MPC2000V
 # MPC One
 # SamplerBox
-# Sp950
+# Sp950_Vst
 # Mo Phatt click
 
 ## Descriptions
