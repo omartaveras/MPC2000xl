@@ -3,6 +3,7 @@
 # SamplerBox
 # Sp950_Vst
 # Mo Phatt click
+# Sk1
 
 ## Descriptions
 * 8 Pads
