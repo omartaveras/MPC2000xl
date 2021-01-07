@@ -15,6 +15,7 @@
 * https://www.inphonik.com/products/rx950-classic-ad-da-converter/
 * https://www.samplerbox.org/
 * https://wavetracing.com/ - SPSound emulator
+* https://low-hiss.com/ - eSPi
 * https://www.musicradar.com/news/the-4-samplers-that-changed-musical-history-and-how-they-did-it
 
 ## MpcONE - 2020
