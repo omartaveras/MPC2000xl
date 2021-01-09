@@ -3,6 +3,7 @@
 # SamplerBox
 # Sp950_Vst
 # Mo Phatt click
+# P Phatt
 # Sk1
 
 ## Descriptions
