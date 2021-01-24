@@ -23,7 +23,7 @@
 - DrumKitz
 - Vinyls
 - Chopping
-- Lo-Fi filter 10k, 26.3khz 12bit
+- Lo-Fi filter 10k, 26.4khz 12bit
 
 ## MpcStudio
 1.9
