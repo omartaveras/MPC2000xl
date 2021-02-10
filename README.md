@@ -5,6 +5,7 @@
 # Mo Phatt click
 # Planet Phatt
 # Sk1
+# M4 - 6i8
 
 ## Descriptions
 * 8 Pads
