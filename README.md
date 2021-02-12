@@ -25,6 +25,7 @@
 - Vinyls
 - Chopping
 - Lo-Fi filter 10k, 26.4khz 12bit
+- Eq Gin-1R
 
 ## MpcStudio
 1.9
