@@ -8,7 +8,7 @@
 # M4 - 6i8
 
 ## Descriptions
-* 8 Pads
+* 8 Pads mini
 * Samples 16bit, 44.1khz
 * Pitch autotune
 ## Virtual Drum Machine Links:
